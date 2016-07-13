@@ -1,1 +1,2 @@
-
+The datamanager directory holds the datamanger.go package accessed imported into the web server main package server.go.
+This is a module containing access routines to the couch database, serving data requested by the web server.
